@@ -15,3 +15,4 @@ Hi, I am Shuqin Zhang. I have been a postdoc at Fudan University since June 2024
 My research interests mostly relate to the dimension theory of fractal sets and measures. During my phD, I was mainly working on multifractal and Fourier properties of inhomogeneous self-similar measures.
 
 
+title: "Publications"
