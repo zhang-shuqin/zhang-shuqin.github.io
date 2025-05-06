@@ -27,10 +27,12 @@ Publications
   (with Bing Gao and Yingqing Xiao) [Journal of Fourier Analysis and Applications](https://link.springer.com/article/10.1007/s00041-023-10037-z)
 
 * The Ricci curvature of gluing graph of two complete graphs.
+  
   (with  Yingqing Xiao)
   [Journal of Geometric Analysis](https://link.springer.com/article/10.1007/s12220-022-01066-z#citeas)
 
 * On the Lq spectra of in-homogeneous self-similar measures.
+  
 (with Bing Gao and Yingqing Xiao)
 [Forum Mathematicum](https://www.degruyterbrill.com/document/doi/10.1515/forum-2022-0142/html)
 
