@@ -18,8 +18,8 @@ My email address is 'zhangshuqin@fudan.edu.cn'.
 
 ---
 
-  - Publications
----
+ title:" Publications"
+
 3. The lower Fourier dimensions of in-homogeneous self-similar measures.
    (with Bing Gao and Yingqing Xiao)
    [Journal of Fourier Analysis and Applications](https://link.springer.com/article/10.1007/s00041-023-10037-z)
@@ -31,3 +31,5 @@ My email address is 'zhangshuqin@fudan.edu.cn'.
 1. On the Lq spectra of in-homogeneous self-similar measures.
 (with Bing Gao and Yingqing Xiao)
 [Forum Mathematicum](https://www.degruyterbrill.com/document/doi/10.1515/forum-2022-0142/html)
+
+---
