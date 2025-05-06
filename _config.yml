@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "sz.jpg"
-  #name             : "Shuqin Zhang"
+  name             : #"Shuqin Zhang"
   pronouns         : # example: "she/her"  
-  #bio              : "张书琴"
+  bio              : #"张书琴"
   location         : "Shanghai, China"
   employer         : "Fudan University"
   uri              : # URL
-  email            :# "zhangshuqin@fudan.edu.cn" 
+  email            : #"zhangshuqin@fudan.edu.cn" 
 
 
   # Repositories and software development
