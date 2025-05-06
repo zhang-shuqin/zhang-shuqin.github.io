@@ -18,6 +18,6 @@ My email address is 'zhangshuqin@fudan.edu.cn'.
 
 ---
 
-  - /Publications
+  - Publications
 ---
 
