@@ -23,8 +23,7 @@ Publications
 ======
 
 * The lower Fourier dimensions of in-homogeneous self-similar measures.
-*    (with Bing Gao and Yingqing Xiao)
-   [Journal of Fourier Analysis and Applications](https://link.springer.com/article/10.1007/s00041-023-10037-z)
+  *    (with Bing Gao and Yingqing Xiao) [Journal of Fourier Analysis and Applications](https://link.springer.com/article/10.1007/s00041-023-10037-z)
 
 * The Ricci curvature of gluing graph of two complete graphs.
   (with  Yingqing Xiao)
