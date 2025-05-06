@@ -17,11 +17,7 @@ My research interests mostly relate to the dimension theory of fractal sets and 
 My email address is 'zhangshuqin@fudan.edu.cn'.
 
 ---
-permalink: /
-title: "Publications"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
+  - /Publications
 ---
 
