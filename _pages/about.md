@@ -16,9 +16,9 @@ My research interests mostly relate to the dimension theory of fractal sets and 
 
 My email address is 'zhangshuqin@fudan.edu.cn'.
 
----
 
- title:" Publications"
+
+- Publications
 
 3. The lower Fourier dimensions of in-homogeneous self-similar measures.
    (with Bing Gao and Yingqing Xiao)
@@ -32,4 +32,4 @@ My email address is 'zhangshuqin@fudan.edu.cn'.
 (with Bing Gao and Yingqing Xiao)
 [Forum Mathematicum](https://www.degruyterbrill.com/document/doi/10.1515/forum-2022-0142/html)
 
----
+
