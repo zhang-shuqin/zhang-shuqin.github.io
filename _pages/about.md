@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Shuqin Zhang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-
+About Me
+======
 
 
 Hi, I am Shuqin Zhang. I have been a postdoc at Fudan University since June 2024, under the supervision of Prof. Weixiao Shen. I was a PhD student at Hunan University from 2019 to 2024, under the supervision of Prof. Yingqing Xiao. I visited Prof. Lars Olsen and the Analysis group from 2023 to 2024.
@@ -18,7 +19,8 @@ My email address is 'zhangshuqin@fudan.edu.cn'.
 
 
 
-- Publications
+Publications
+======
 
 3. The lower Fourier dimensions of in-homogeneous self-similar measures.
    (with Bing Gao and Yingqing Xiao)
