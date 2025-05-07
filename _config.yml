@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shuqin's website"
+title                    : "张书琴"
 title_separator          : "-"
 name                     : &name "Shuqin Zhang(张书琴)"
 description              : &description "personal description"
