@@ -11,11 +11,18 @@ redirect_from:
 
 
 
- I have been a postdoc at Fudan University since June 2024, under the supervision of Prof. Weixiao Shen. I was a PhD student at Hunan University from 2019 to 2024, under the supervision of Prof. Yingqing Xiao. I visited Prof. Lars Olsen and the Analysis group from 2023 to 2024.
+ I am a postdoc at Fudan University now, under the supervision of Prof. Weixiao Shen. I was a PhD student at Hunan University from 2019 to 2024, under the supervision of Prof. Yingqing Xiao. I visited Prof. Lars Olsen  and the Analysis group from 2023 to 2024.
 
 My research interests mostly relate to the dimension theory of fractal sets and measures. During my phD, I was mainly working on multifractal and Fourier properties of inhomogeneous self-similar measures.
 
 My email address is 'zhangshuqin@fudan.edu.cn'.
+
+Preprints
+======
+
+* Frostman and Fourier characterisations of fractal dimensions.
+ 
+  (with Kenneth Falconer) [Axiv]([https://link.springer.com/article/10.1007/s00041-023-10037-z](https://arxiv.org/abs/2505.21217))
 
 
 
