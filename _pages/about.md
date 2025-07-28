@@ -11,7 +11,8 @@ redirect_from:
 
 
 
- I am a postdoc at Fudan University now, under the supervision of Prof. Weixiao Shen. I was a PhD student at Hunan University from 2019 to 2024, under the supervision of Prof. Yingqing Xiao. I visited Prof. Lars Olsen  and the Analysis group from 2023 to 2024.
+ I am a postdoc at Fudan University now, under the supervision of Prof. Weixiao Shen. I was a PhD student at Hunan University from 2019 to 2024, under the supervision of Prof. Yingqing Xiao.
+ During 2023 to 2024, I visited Prof. Lars Olsen  and the Analysis group in University of St. Andrews in Scotland.
 
 My research interests mostly relate to the dimension theory of fractal sets and measures. During my phD, I was mainly working on multifractal and Fourier properties of inhomogeneous self-similar measures.
 
