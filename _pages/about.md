@@ -16,7 +16,7 @@ redirect_from:
 
 My research interests mostly relate to the dimension theory of fractal sets and measures. During my phD, I was mainly working on multifractal and Fourier properties of inhomogeneous self-similar measures.
 
-My email address is 'zhangshuqin@fudan.edu.cn'.
+My email address is zhangshuqin'AT'fudan'DOT' edu'DOT'cn
 
 Preprints
 ======
