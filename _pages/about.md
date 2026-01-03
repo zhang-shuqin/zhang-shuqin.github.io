@@ -23,7 +23,7 @@ Preprints
 
 * Frostman and Fourier characterisations of fractal dimensions.
  
-  (with Kenneth Falconer) [Axiv](https://arxiv.org/abs/2505.21217)
+  (with Kenneth Falconer) [Axiv](https://arxiv.org/abs/2505.21217), accepted by Mathematische Zeitschrift.
 
 
 Publications
