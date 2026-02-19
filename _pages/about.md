@@ -18,16 +18,14 @@ My research interests mostly relate to the dimension theory of fractal sets and 
 
 My email address is zhangshuqin‘AT'fudan‘DOT' edu’DOT'cn
 
-Preprints
-======
 
-* Frostman and Fourier characterisations of fractal dimensions.
- 
-  (with Kenneth Falconer) [Axiv](https://arxiv.org/abs/2505.21217), accepted by Mathematische Zeitschrift.
 
 
 Publications
 ======
+* Frostman and Fourier characterisations of fractal dimensions.
+ 
+  (with Kenneth Falconer) [Axiv](https://arxiv.org/abs/2505.21217), [Mathematische Zeitschrift](https://link.springer.com/content/pdf/10.1007/s00209-026-03961-5.pdf).
 
 * The lower Fourier dimensions of in-homogeneous self-similar measures.
  
