@@ -6,8 +6,6 @@ classes: wide
 redirect_from: 
   - /about/
   - /about.html
-
-
 <style>
   .page {
     width: 100% !important;
