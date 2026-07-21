@@ -6,15 +6,6 @@ classes: wide
 redirect_from: 
   - /about/
   - /about.html
-<style>
-  .page {
-    width: 100% !important;
-    padding-right: 0 !important;
-  }
-  .page__inner-wrap, .page__content {
-    max-width: 100% !important;
-  }
-</style>
 ---
 
 Hi, I am a postdoc at Fudan University.
