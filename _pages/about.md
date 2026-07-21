@@ -24,7 +24,8 @@ My email address is zhangshuqin‘at'fudan‘dot' edu‘dot'cn
 Publications
 ======
 5.Hausdorff dimension of the individual divergence sets of in-homogeneous self-similar measures.
-(with Bing Gao and Yingqing Xiao) to appear in Acta Math. Sci.
+
+  (with Bing Gao and Yingqing Xiao) to appear in Acta Math. Sci.
 
 4.Frostman and Fourier characterisations of fractal dimensions.
  
