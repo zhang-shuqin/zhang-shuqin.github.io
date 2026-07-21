@@ -7,13 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-
-
-
-
 Hi, I am a postdoc at Fudan University.
 
-I work in fractal geometry, primarily in dimension theory. I am currently interested in using measures to characterize fractal dimensions.
+I am working on fractal geometry, primarily in dimension theory. I am currently interested in characterizing fractal dimensions by measures.
 During my PhD, I mainly worked on the multifractal and Fourier properties of inhomogeneous self-similar measures.
 
 My email address is zhangshuqin‘at'fudan‘dot' edu‘dot'cn
