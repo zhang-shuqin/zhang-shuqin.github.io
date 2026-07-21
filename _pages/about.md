@@ -31,3 +31,12 @@ Publications
 1\. On the Lq spectra of in-homogeneous self-similar measures.(with Bing Gao and Yingqing Xiao)[Forum Mathematicum](https://www.degruyterbrill.com/document/doi/10.1515/forum-2022-0142/html)
 
 
+<style>
+  .page {
+    width: 100% !important;
+    padding-right: 0 !important;
+  }
+  .page__inner-wrap, .page__content {
+    max-width: 100% !important;
+  }
+</style>
