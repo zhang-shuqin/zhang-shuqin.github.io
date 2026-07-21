@@ -23,6 +23,7 @@ My email address is zhangshuqin‘at'fudan‘dot' edu‘dot'cn
 
 Publications
 ======
+
 * Hausdorff dimension of the individual divergence sets of in-homogeneous self-similar measures.
 
   (with Bing Gao and Yingqing Xiao) to appear in Acta Math. Sci.
