@@ -344,7 +344,7 @@ compress_html:
     envs: development
 
 
-    defaults:
+  defaults:
   - scope:
       path: ""
     values:
