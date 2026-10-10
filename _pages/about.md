@@ -17,7 +17,7 @@ My email address is zhangshuqin‘at'fudan‘dot' edu‘dot'cn
 
 
 
-Publications
+Publications and Preprints
 ======
 6\. Box dimension profiles and intermediate dimensions, [Axiv](https://arxiv.org/abs/2610.11928)
 
