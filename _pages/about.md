@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a postdoc at Fudan University.
+Hi, I am a Lecturer at Guangzhou University.
 
 I am working on fractal geometry, primarily in dimension theory. I am currently interested in characterizing fractal dimensions by measures. During my PhD, I mainly worked on the multifractal and Fourier properties of inhomogeneous self-similar measures.
 
@@ -19,6 +19,7 @@ My email address is zhangshuqin‘at'fudan‘dot' edu‘dot'cn
 
 Publications
 ======
+6\. Box dimension profiles and intermediate dimensions, [Axiv](https://arxiv.org/abs/2610.11928)
 
 5\. Hausdorff dimension of the individual divergence sets of inhomogeneous self-similar measures.(with Bing Gao and Yingqing Xiao), to appear in Acta. Math. Sci.
   
